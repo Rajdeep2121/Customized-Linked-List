@@ -1,4 +1,4 @@
-Semester 2 Group Project 
+# Semester-2 Project C Programming 
 
 Customized-Linked-List
 
@@ -14,8 +14,4 @@ Implementations:
 5. Appending one list to another
 6. User Interface to have basic interfacing with the linked list library
 
-Team Members:
-1. Ish Hitesh Bosamiya
-2. Rajdeep Sengupta
-3. Abhijeet Rajkumar
-4. Avva Sai Pranav
+Refer to Powerpoint Presentation for details 
